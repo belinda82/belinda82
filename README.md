@@ -2,10 +2,9 @@
 
 <!--
 **belinda82/belinda82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
-
-- I'm a Software Engineer based in Barcelona with over 7 years of experience building web applications, mainly with React and TypeScript.
+I'm a Software Engineer based in Barcelona with over 7 years of experience building web applications, mainly with React and TypeScript.
 
 I've worked on SaaS platforms, real time dashboards and applications with complex business workflows. I enjoy understanding how things work, solving problems and making software easier to use and maintain.
 
@@ -24,4 +23,3 @@ Building useful products, writing maintainable code, understanding users and con
 📍 Barcelona, Spain
 
 LinkedIn
--->
